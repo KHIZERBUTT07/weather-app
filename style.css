@@ -99,7 +99,7 @@ font-weight: bold;
 @media(max-width:505px){
 .card{
     width: 80%;
-    height: 90vh;
+    height: 85vh;
 }
 .search input{
    width: 50%;
@@ -132,4 +132,11 @@ font-weight: bold;
     font-size: 10px;
     margin-left: -50px;
 }
+}
+.humidity,.wind{
+    font-size: 10px;
+}
+
+.col img{
+    width: 40px;
 }
